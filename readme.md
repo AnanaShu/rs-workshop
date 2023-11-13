@@ -24,3 +24,5 @@ _italic style_
 ***All bold and Italic***
 This is a <sub>subscript</sub> text
 This is a <sup>superscript</sup> text
+
+[Contribution guidelines for this project](docs/contributing.md)

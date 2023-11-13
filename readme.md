@@ -1,6 +1,6 @@
-#Hello! It's 1 level header
-##2 level header
-###3 level header
+# Hello! It's 1 level header
+## 2 level header
+### 3 level header
 **This is bold text in markdown file**
 _italic style_
 ~this is mistaken text~

@@ -26,3 +26,5 @@ This is a <sub>subscript</sub> text
 This is a <sup>superscript</sup> text
 
 [Contribution guidelines for this project](docs/contributing.md)
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](octocat-1699865051762.png)

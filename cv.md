@@ -25,12 +25,17 @@ I don't have any developer experience, but I really wish! I'll try to get all of
 ## Code Example
 
 ```
-function sum(a, b) {
-  return a + b;
-}
+//вывод данных, введенных пользователем
+document.querySelector(".b-3").addEventListener("click",
+    function () {
+        const s = document.querySelector(".i-3").value;
+        document.querySelector(".out-2").innerHTML = "Hello, " + clearText(s) + "!";
+        console.log("Hello, " + clearText(s) + "!");
+    });
 
-let result = sum(1, 2);
-alert( result );
+function clearText(data) {
+    return data.trim().toLowerCase();
+}
 
 ```
 
@@ -44,6 +49,7 @@ alert( result );
 | **Hexlet**          |                Git, gitHub; Command Line Basics.                |
 | **English**         |                         A2 ---> B1 [^1]                         |
 
+<!-- This content will not appear in the rendered Markdown
 1. **Stepik courses:**
 
 - HTML and CSS basics
@@ -55,6 +61,6 @@ alert( result );
 - Git, gitHub
 - Command Line Basics
 
-3. **English** - A2 ---> B1 (I continue to learn with 2 teachers 4 times/week)
+3. **English** - A2 -  B1 (I continue to learn with 2 teachers 4 times/week)-->
 
 [^1]: (I continue to learn with 2 teachers 4 times/week).

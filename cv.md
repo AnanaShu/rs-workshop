@@ -2,7 +2,7 @@
 
 # Anastasiia Shvedchikova
 
-## Contacts
+## <span style="color:#59afe1">Contacts</span>
 
 - Location: _Nha Trang, Vietnam_
 - Phone: _+7 995 230 23 99_
@@ -10,11 +10,11 @@
 - GitHub: _[AnanaShu](https://github.com/AnanaShu/)_
 - Discord-name: _AnastasiiaShved (@AnanaShu)_
 
-## About Me
+## <span style="color:#59afe1">About Me </span>
 
 I don't have any developer experience, but I really wish! I'll try to get all of my strengths. A couple years I was studying Java in Java Rush School but now I have decided to choose the frontend way.
 
-## Skills
+## <span style="color:#59afe1">Skills</span>
 
 - Git/GitHub
 - HTML
@@ -22,7 +22,7 @@ I don't have any developer experience, but I really wish! I'll try to get all of
 - JavaScript
 - Command line
 
-## Code Example
+## <span style="color:#59afe1">Code Example</span>
 
 ```
 //вывод данных, введенных пользователем

@@ -1,4 +1,4 @@
-## [rsschool-cv](https://pages.github.com/).
+## [rsschool-cv](https://pages.github.com/)
 
 # Anastasiia Shvedchikova
 
@@ -7,7 +7,7 @@
 - Location: _Nha Trang, Vietnam_
 - Phone: _+7 995 230 23 99_
 - Email: _ananashw@gmail.com_
-- GitHub:_[GitHub Pages](https://github.com/AnanaShu/)_
+- GitHub: _[AnanaShu](https://github.com/AnanaShu/)_
 - Discord-name: _AnastasiiaShved (@AnanaShu)_
 
 ## About Me
@@ -38,6 +38,12 @@ alert( result );
 
 ### Courses:
 
+| Имя                 |                             Возраст                             |
+| ------------------- | :-------------------------------------------------------------: |
+| **Stepik courses:** | HTML and CSS basics; CSS Flexbox; ntroduction to the Data base. |
+| **Hexlet**          |                Git, gitHub; Command Line Basics.                |
+| **English**         |                         A2 ---> B1 [^1]                         |
+
 1. **Stepik courses:**
 
 - HTML and CSS basics
@@ -50,3 +56,5 @@ alert( result );
 - Command Line Basics
 
 3. **English** - A2 ---> B1 (I continue to learn with 2 teachers 4 times/week)
+
+[^1]: (I continue to learn with 2 teachers 4 times/week).

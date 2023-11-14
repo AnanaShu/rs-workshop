@@ -26,6 +26,7 @@ I don't have any developer experience, but I really wish! I'll try to get all of
 
 ```
 //вывод данных, введенных пользователем
+
 document.querySelector(".b-3").addEventListener("click",
     function () {
         const s = document.querySelector(".i-3").value;
@@ -43,7 +44,7 @@ function clearText(data) {
 
 ### Courses:
 
-| Имя                 |                             Возраст                             |
+| Course              |                              Topic                              |
 | ------------------- | :-------------------------------------------------------------: |
 | **Stepik courses:** | HTML and CSS basics; CSS Flexbox; ntroduction to the Data base. |
 | **Hexlet**          |                Git, gitHub; Command Line Basics.                |
